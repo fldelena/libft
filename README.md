@@ -1,4 +1,4 @@
-# Libft - 21Shool
+# Libft - 21School
 
 ### What is libft?
 
